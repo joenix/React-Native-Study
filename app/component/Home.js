@@ -38,11 +38,13 @@ class Main extends Component {
 
 		const { navigator } = this.props;
 
-		console.log(111, navigator, 222);
+		// console.log(111, navigator, 222);
 
 	}
 
 	render() {
+
+		console.log(888, this);
 
 		return (
 
